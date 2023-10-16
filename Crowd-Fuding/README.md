@@ -21,4 +21,5 @@
 
 ![Purple Modern Mind Map and Process Flow Graph](https://github.com/Uttam-Singhh/5-Smart-Contract-Projects/assets/63050765/fb6a1668-ca1b-4654-abfa-c362a665e7ea)
 
+![Purple Modern Mind Map and Process Flow Graph (2)](https://github.com/Uttam-Singhh/5-Smart-Contract-Projects/assets/63050765/271a73ed-cff7-432a-9d58-09101924d868)
 
