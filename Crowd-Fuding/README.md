@@ -5,17 +5,6 @@
 3. Code the Smart Contract
 4. Write Unit Tests
 
-### Project Setup
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
 ### Technical Specification & functions:
 
 - Crowdfunding is an online money-raising strategy.
@@ -29,4 +18,7 @@ $ forge test
   - User has contributed to the project.
   - No partial withdraws (only full amount)
 - Only Creator can withdraw funds from the Project contract if the Project has raised the amount desired or the amount to withdraw is less than contributions made to the Project.
+
+![Purple Modern Mind Map and Process Flow Graph](https://github.com/Uttam-Singhh/5-Smart-Contract-Projects/assets/63050765/fb6a1668-ca1b-4654-abfa-c362a665e7ea)
+
 
